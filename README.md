@@ -4,13 +4,12 @@ An end-to-end e-commerce data analysis project using **PostgreSQL** and **Power 
 
 ## Dashboard Preview
 
-![Power BI Dashboard](image1.png)
-
+![Power BI Dashboard](dashboard-overview.png)
 ## Interactive Dashboard
 
 The dashboard includes category-level filtering for interactive analysis.
 
-![Filtered Dashboard](image2.png)
+![Filtered Dashboard](dashboard-filtered.png)
 
 ## Tools & Technologies
 
