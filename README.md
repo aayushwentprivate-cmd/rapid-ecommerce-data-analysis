@@ -41,8 +41,8 @@ The dashboard includes category-level filtering for interactive analysis.
 
 - `rapid_ecommerce_analysis.sql` — SQL queries for data exploration, cleaning, and analysis
 - `rapid_ecommerce.pbix` — Power BI dashboard
-- `image1.png` — Dashboard overview
-- `image2.png` — Filtered dashboard view
+- `dashboard-overview.png` — Dashboard overview
+- `dashboard-filtered.png` — Filtered dashboard view
 
 ## Project Objective
 
